@@ -2,7 +2,7 @@
 This is a template repository that can be cloned to create a new, specific repository. Please follow the structure below to create your repositories.
 
 ## Repository's structure
-1. `README.md` file: This is an introductory file that explains what the repo does.
+1. `README.md`: This is an introductory file that explains what the repo does.
 2. `src`: This directory contains the source code.
 3. `exe`: (Optional) This directory contains executables created after compiling the source code.
 4. `lib`: (Optional) This directory contains external libraries called during the source code compilation. 
