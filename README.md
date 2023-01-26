@@ -1,5 +1,7 @@
 # hyds-repo
-This is a template repository that can be cloned to create a new, specific repository. Please follow the structure below to create your repositories.
+This is a template repository that can be cloned to create a new, specific repository. To clone it from the terminal, please type: `git clone https://github.com/hydsrg/hyds-repo`. 
+
+Please follow the structure below to create your repositories.
 
 ## Repository's structure
 1. `README.md`: This is an introductory file that explains what the repo does.
